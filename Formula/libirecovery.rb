@@ -2,6 +2,7 @@ class Libirecovery < Formula
   desc "Library and utility to talk to iOS device iBoot/iBSS via USB on Mac OS X, Windows, and Linux"
   homepage "http://www.libimobiledevice.org/"
   url "https://git.libimobiledevice.org/libirecovery.git", :tag => "0.1.1", :revision => "4d8ffd7c14cafd468e92c00eae7d0aac42fbbd23"
+  revision 2
 
   bottle :unneeded
 

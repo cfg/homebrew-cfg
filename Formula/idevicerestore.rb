@@ -2,6 +2,8 @@ class Idevicerestore < Formula
   desc "Cross-platform tool for updating and restoring IPSW firmware to iOS devices"
   homepage "http://www.libimobiledevice.org/"
   url "https://git.sukimashita.com/idevicerestore.git", :revision => "cae1734c597371e7c3ccd384434e638071843249"
+  revision 2
+
   version "2016.09.30"
 
   bottle :unneeded
